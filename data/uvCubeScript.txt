@@ -1,0 +1,2 @@
+open thispatcher
+folder C:/Users/KBK/Documents/PixelClone/UV/UV-RT-cubeinclude C:/Users/KBK/Documents/PixelClone/UV/UV-RT-cube/cubeInaCube.fbx
