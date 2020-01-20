@@ -2,7 +2,7 @@
 	"name" : "UV-RT-cube",
 	"version" : 1,
 	"creationdate" : 3649066339,
-	"modificationdate" : 3653387610,
+	"modificationdate" : 3662384796,
 	"viewrect" : [ 25.0, 73.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -20,6 +20,11 @@
 ,
 		"media" : 		{
 			"resoMap1080.png" : 			{
+				"kind" : "imagefile",
+				"local" : 1
+			}
+,
+			"FolderMedium.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
 			}
